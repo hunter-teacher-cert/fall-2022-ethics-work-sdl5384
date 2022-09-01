@@ -1,6 +1,6 @@
-* Last name:
-* First name:
-* Github username:
+* Last name: Lojacono
+* First name: Sam David
+* Github username: sdl5384
 
 * Instructions:
 
