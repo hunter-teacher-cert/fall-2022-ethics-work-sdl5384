@@ -46,6 +46,3 @@ PROCESS TO RUN PYTHON SCRIPTS:
 
 5. 	Run the code in the python command line either in the command prompt 
 	or in the terminal.  Either script you run will take a few minutes to run, but at the end you should see in the file or directory you put in your filepath an Excel spreadsheet file that will contain all the songs that were played in the station's playlist.
-
-6. 	If after this you are not able to run the script, I am also attaching a
-	Screencastify video that shows how the script runs and the resulting spreadsheet after it is finished.
