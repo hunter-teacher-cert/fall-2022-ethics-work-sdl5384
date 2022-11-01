@@ -4,3 +4,4 @@
 # collaborators: NONE
 # consulted: NONE
 
+https://diginomica.com/ai-specter-unintended-consequences-workday-speaks
