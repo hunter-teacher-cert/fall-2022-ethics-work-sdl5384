@@ -1,0 +1,7 @@
+In this program I tried to write the program where it looked for (although unsuccessfully) for groups of empty seats for parties of 2, 3, 4, or even 5 groups of people to sit.
+
+It is not perfect.  I had the program assume that 65% of all passengers were single fliers.  The strongly reflects in the code, but it doesn't show many (or any) groups, which is what I am still struggling with to get it to work.
+
+What I REALLY wanted the code to do was try to keep the largest number of parties, parties of maybe 4 or 5 together so that way they are not dispersed or broken up and then put in random places throughout the plane.  This way the computer will just place the single fliers around them.
+
+I am still playing with it (maybe I might have to increase the percentage on the larger parties for this to be possible).
