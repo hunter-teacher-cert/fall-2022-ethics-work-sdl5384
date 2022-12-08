@@ -1,7 +1,3 @@
-#created by and collaborated with:
-#Sam D. Lojacono
-#Will Lamorie
-
 import random
 
 # get you some user input for great justice!
